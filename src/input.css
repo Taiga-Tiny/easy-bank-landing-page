@@ -56,11 +56,6 @@ main{
     min-height: 260px;
     
 } 
-/* min-height: 280px; */
-
-/* .card-img{
-    width: 303px; height: 184px
-} */
 /* Media Queries */
 @media(min-width:768px){
     .hero-image{

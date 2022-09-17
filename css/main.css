@@ -763,10 +763,6 @@ video {
   border-width: 1px;
 }
 
-.border-2 {
-  border-width: 2px;
-}
-
 .border-white {
   --tw-border-opacity: 1;
   border-color: rgb(255 255 255 / var(--tw-border-opacity));
@@ -998,12 +994,6 @@ main{
   min-height: 260px;
 }
 
-/* min-height: 280px; */
-
-/* .card-img{
-    width: 303px; height: 184px
-} */
-
 /* Media Queries */
 
 @media(min-width:768px){
@@ -1192,11 +1182,6 @@ main{
 }
 
 @media (min-width: 768px) {
-  .md\:mx-auto {
-    margin-left: auto;
-    margin-right: auto;
-  }
-
   .md\:block {
     display: block;
   }
@@ -1236,11 +1221,6 @@ main{
     padding-right: 4rem;
   }
 
-  .md\:px-6 {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-  }
-
   .md\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
@@ -1263,19 +1243,14 @@ main{
 }
 
 @media (min-width: 976px) {
-  .lg\:my-24 {
-    margin-top: 6rem;
-    margin-bottom: 6rem;
+  .lg\:my-28 {
+    margin-top: 7rem;
+    margin-bottom: 7rem;
   }
 
   .lg\:my-4 {
     margin-top: 1rem;
     margin-bottom: 1rem;
-  }
-
-  .lg\:my-28 {
-    margin-top: 7rem;
-    margin-bottom: 7rem;
   }
 
   .lg\:mb-8 {
